@@ -79,7 +79,7 @@ const Feed = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Feed</IonTitle>
+          <IonTitle>Shop</IonTitle>
           <IonButtons slot="start">
             <IonMenuButton />
           </IonButtons>
